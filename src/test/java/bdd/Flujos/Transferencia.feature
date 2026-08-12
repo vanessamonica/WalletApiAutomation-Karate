@@ -71,3 +71,5 @@ Feature: Ejercicio 2 - Flujos de Transferencia de Fondos
     # Ajustar el status esperado según las reglas de tu API (ej. 400 o 422)
     Then status 400
     * print 'RESPUESTA ERROR SALDO INSUFICIENTE:', response
+
+    Scenario: Ejemplo
