@@ -1,0 +1,6 @@
+{
+  "phone": "#(getRandomPhone())",
+  "fullName": "Receptor Test",
+  "email": "#(getRandomEmail('receptor'))",
+  "pin": "123456"
+}

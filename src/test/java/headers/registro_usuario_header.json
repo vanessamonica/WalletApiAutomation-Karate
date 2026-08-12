@@ -1,0 +1,6 @@
+{
+  "Accept": "*/*",
+  "Cache-Control": "no-cache",
+  "Content-Type": "application/json",
+  "x-channel": "WEB"
+}
