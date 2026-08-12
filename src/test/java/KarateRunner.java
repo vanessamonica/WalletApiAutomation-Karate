@@ -7,7 +7,7 @@ public class KarateRunner {
         return Karate.run("classpath:bdd/Flujos/Regresion.feature").relativeTo(getClass());
     }*/
 
-    @Karate.Test
+    @Karate.Test /**prueba de commit */
     Karate testAll() {
         // Apunta al nuevo feature, no al que tiene @ignore
         return Karate.run("classpath:bdd/Flujos/Transferencia.feature");
